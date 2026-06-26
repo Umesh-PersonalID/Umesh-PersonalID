@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Umesh Ghaskata</h1>
+<h1 align="center">Hi , I'm Umesh Ghaskata</h1>
 
 <h3 align="center">
-AI Engineer • Machine Learning • Generative AI • LLMs • RAG • Computer Vision
+AI Software Engineer • Machine Learning • Generative AI • LLMs • RAG
 </h3>
 
 <p align="center">
-MS Computer Science @ University at Buffalo <br>
-IIT Bombay Graduate
+MSCS @ University at Buffalo <br>
+IIT Bombay Graduate'24
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ IIT Bombay Graduate
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - MSCS @ UB
 - IIT Bombay Graduate
@@ -37,51 +37,90 @@ IIT Bombay Graduate
 
 ---
 
-# Tech Stack
+## Skills
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,java"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,typescript" />
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase" />
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postgres,mongodb" />
 
 </p>
 
----
+</td>
 
-# AI / LLM Stack
+<td valign="top" width="50%">
+
+### AI / LLM Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Transformers-red?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/PEFT-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/QLoRA-blue?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/LoRA-blue?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/QLoRA-0A66C2?style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
 
 </p>
 
+</td>
+
+</tr>
+</table>
+
+
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -99,7 +138,7 @@ IIT Bombay Graduate
 
 ---
 
-# 📫 Connect with Me
+# Connect with Me
 
 <p align="center">
 
