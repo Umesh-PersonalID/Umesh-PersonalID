@@ -24,19 +24,7 @@ FastAPI • React Native
 Docker • AWS
 OpenCV • CUDA
 
----
 
-## Featured Projects
-
-🚀 AI Agent Platform
-
-🚀 Fine-tuning Gemma with LoRA/QLoRA
-
-🚀 Multimodal RAG
-
-🚀 Hyperspectral Image Classification
-
-🚀 Motion Planning Research
 
 ---
 
