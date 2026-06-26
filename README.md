@@ -37,14 +37,14 @@ IIT Bombay Graduate'24
 
 ---
 
-## Skills
+# Skills
 
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ IIT Bombay Graduate'24
 
 </td>
 
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ## AI / LLM Stack
 
