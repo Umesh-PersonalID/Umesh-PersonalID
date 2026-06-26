@@ -39,14 +39,15 @@ IIT Bombay Graduate'24
 
 ## Skills
 
-<table  width="100%">
+
+<div align="center">
+
+<table width="100%">
 <tr>
+<td width="50%" align="center">
 
-<td valign="top" width="50%">
+## Tech Stack
 
-### Tech Stack
-
-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,typescript" />
 
@@ -62,15 +63,12 @@ IIT Bombay Graduate'24
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postgres,mongodb" />
 
-</p>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" align="center">
 
-### AI / LLM Stack
-
-<p align="center">
+## AI / LLM Stack
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
@@ -109,6 +107,32 @@ IIT Bombay Graduate'24
 <br><br>
 
 <img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
+
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+<table  width="100%">
+<tr>
+
+<td valign="top" width="50%">
+
+### Tech Stack
+
+
+</td>
+
+<td valign="top" width="50%">
+
+### AI / LLM Stack
+
+<p align="center">
 
 </p>
 
