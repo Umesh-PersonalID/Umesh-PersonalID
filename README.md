@@ -37,110 +37,47 @@ IIT Bombay Graduate'24
 
 ---
 
-# Skills
-
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="100%" align="center">
-
-## Tech Stack
-
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,typescript" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postgres,mongodb" />
-
-
-</td>
-
-<td width="100%" align="center">
-
-## AI / LLM Stack
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Transformers-red?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PEFT-orange?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LoRA-blue?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/QLoRA-0A66C2?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
-
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
-
-<table  width="100%">
-<tr>
-
-<td valign="top" width="50%">
-
-### Tech Stack
-
-
-</td>
-
-<td valign="top" width="50%">
-
-### AI / LLM Stack
+# Tech Stack
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,java"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
+
 </p>
 
-</td>
+---
 
-</tr>
-</table>
+# AI / LLM Stack
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
+
+<img src="https://img.shields.io/badge/PEFT-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QLoRA-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
