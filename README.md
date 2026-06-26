@@ -29,18 +29,15 @@ IIT Bombay Graduate
 
 # 🚀 About Me
 
-- 🎓 MS in Computer Science @ University at Buffalo
-- 🎓 IIT Bombay Graduate
-- 🤖 AI Engineer specializing in LLMs, RAG and AI Agents
-- 🛰️ NASA AIST-21 Research Project
-- 📱 Built production React Native applications
-- 🔬 Computer Vision & Robotics Research
-- ☁️ AWS Cloud Deployment
-- 🌱 Currently building AI Agents
+- MSCS @ UB
+- IIT Bombay Graduate
+- AI Engineer specializing in LLMs, RAG and AI Agents
+- AWS Cloud Deployment
+- Currently building AI Agents
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -62,7 +59,7 @@ IIT Bombay Graduate
 
 ---
 
-# 🤖 AI / LLM Stack
+# AI / LLM Stack
 
 <p align="center">
 
@@ -84,19 +81,6 @@ IIT Bombay Graduate
 
 ---
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Agent Platform | AI Agent with tool calling, memory and web search |
-| 🧠 Gemma LoRA / QLoRA | Fine-tuned Gemma models using PEFT |
-| 📚 Multimodal RAG | Retrieval-Augmented Generation with streaming |
-| 🚬 AI Smoking Cessation Chatbot | Personalized healthcare chatbot |
-| 🚁 Hyperspectral Classification | NASA AIST-21 UAV edge AI |
-| 📍 Coverage Path Planning | Motion Planning Research |
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -112,20 +96,6 @@ IIT Bombay Graduate
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-PersonalID&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🏆 Achievements
-
-🏅 NASA AIST-21 Research
-
-🎓 MS Computer Science @ University at Buffalo
-
-🎓 IIT Bombay Graduate
-
-🤖 Built Production AI Systems
-
-🚀 Published Motion Planning Research
 
 ---
 
